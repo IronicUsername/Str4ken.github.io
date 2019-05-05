@@ -1,10 +1,25 @@
 ---
 layout: post
-title: You're up and running!
+title: Es geht los!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Warum ich nicht gerne schreibe?
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+    - weil ich Angst habe, dass meine Formulierungen nicht verständlich sind
+    - weil ich Angst habe, dass ich Grammatik- und Rechtschreibfehler mache
+    - weil ich Angst habe, dass ich Fehlinformationen verbreite
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Warum das eigentlich gar nicht schlimm ist?
+
+    Weil alle anderen auch ständig Fehler machen und weil ich niemals besser werden
+    kann, wenn ich nicht einfach anfange wesentlich mehr zu schreiben. Viele Menschen
+    legen nämlich durchaus Wert auf meine Gedanken.
+
+Warum ich hin und wieder einzelne Wörter komplett vergesse ist mir ein Rätsel.
+
+    Ganz besonders oft vergesse ich das Wort "ich" in Sätzen. Liegt das vielleicht
+    an einem geringen Selbstwertgefühle.
+    Aber entwickele mich schon in die richtige Richtung, wenn es darum geht sich
+    mehr zu schätzen und zu lieben.
+
+**!LOVE YOURSELF!**

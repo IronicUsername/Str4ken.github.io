@@ -1,15 +1,22 @@
 ---
 layout: page
-title: About
+title: Über Bin
 permalink: /about/
 ---
 
-Some information about you!
+### Hello World!
 
-### More Information
+Das hier ist ein Plätzle um dem groben Unfug der ab und an in meinem Kopf entsteht Auslauf zu geben.
 
-A place to include any other types of information that you'd like to include about yourself.
+Scheinbar gehört es heutzutage zum guten Ton seinen Gedankenbrei und sein Mittagessen digital zu teilen.
 
-### Contact me
+Da ich kein Fan von Facebook und Instagram mach ich das lieber auf einem privaten Spielplatz.
 
-[email@domain.com](mailto:email@domain.com)
+Viel Spass und Verwirrung auf meinem Blog 
+
+
+
+
+### Magsch mir was verzählen?
+
+[blog@robinschnider.com](mailto:blog@robinschnider.com)
