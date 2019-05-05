@@ -63,8 +63,7 @@ wenn wir "No war" lesen? Ja, an Krieg!
 Also sollten Ziele bzw. Gebote nie eine Verneinung beinhalten. Meine Mutter erzählte
 mir schon lange von dieser Theorie und lange hielt ich sie für stumpf und überflüssig.
 Doch umso mehr man darüber nachdenkt, umso logischer erscheint sie.
-Das liegt daran wie unser Hirn funktioniert. Wir ticken nicht wie ein Computer,
-der auf Logik basiert. In der Logik ist eine Umkehrung, also ein "no", klar definiert.
+Das liegt daran wie unser Hirn funktioniert. Wir ticken nicht wie ein Computer, der auf Logik basiert. In der Logik ist eine Umkehrung, also ein "no", klar definiert.
 Unser Verstand basiert allerdings auf Mustererkennung. Wir erkennen also das Muster "war" und
 just in diesem Moment zünden eine Vielzahl anderer Muster, die mit dem Begriff "war" zusammenhängen.
 Meiner Meinung nach ist das der Grund weshalb die 10 Gebote vom lieben Moses so ein
