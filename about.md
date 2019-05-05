@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Über Bin
+title: Über mein Denkarium
 permalink: /about/
 ---
 
-### Hello World!
 
 Das hier ist ein Plätzle um dem groben Unfug der ab und an in meinem Kopf entsteht Auslauf zu geben.
 
