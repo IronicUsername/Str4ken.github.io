@@ -71,4 +71,6 @@ Flop waren.
 
 Unser Verstand ist eine komplexe Sache und gleichzeitig weckt sie meine höchste Neugier. Er ist unser mächtigstes Werkzeug und Garant für Erfolg in der heutigen Welt. Also gilt es ihn so zu formen und zu trainieren, so dass er notwendige Aufgaben lösen kann. Und so sind wir wieder am Anfang: Ich muss mehr schreiben!
 
-Man kann die Welt nicht anders denken, aber man kann sie mit Worten verändern. Also muss ich mehr schreiben und sprechen. Kommunikation ist der Schlüssel zum Erfolg, zur Durchsetzung meiner Ziele. Und das Erreichen meiner Ziele ist gut, weil es altruistische Ziele sind.
+Man kann die Welt nicht anders denken, aber man kann sie mit Worten verändern. Also muss ich mehr schreiben und sprechen. Kommunikation ist der Schlüssel zum Erfolg, zur Durchsetzung meiner Ziele. Und das Erreichen meiner Ziele scheint mir gut, weil es altruistische Ziele sind.
+
+Kuchen für Alle!
