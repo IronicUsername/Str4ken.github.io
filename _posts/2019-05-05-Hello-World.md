@@ -11,14 +11,14 @@ Warum ich nicht gerne schreibe?
 
 Warum das eigentlich gar nicht schlimm ist?
 
-Weil alle anderen auch ständig Fehler machen und weil ich niemals besser werden
-kann, wenn ich nicht einfach anfange wesentlich mehr zu schreiben. Viele Menschen
+Weil alle anderen auch ständig Fehler machen und weil ich niemals besser darin werde, wenn ich nicht einfach anfange wesentlich mehr zu schreiben. Viele Menschen
 legen nämlich durchaus Wert auf meine Gedanken.
 
 Warum ich hin und wieder einzelne Wörter komplett vergesse ist mir ein Rätsel.
 
-Ganz besonders oft vergesse ich das Wort "ich" in Sätzen. Liegt das vielleicht
-andere zu lieben, wenn man sich nicht selbst liebt.
+Ganz besonders oft vergesse ich das Wort "ich" in Sätzen. Liegt das vielleicht an einem 
+geringen Selbstwertgefühl. Aber entwickele mich schon in die richtige Richtung, wenn es darum geht sich	
+mehr zu schätzen und zu lieben. Denn ich bin der Meinung, dass es uns schwer fällt andere zu lieben, wenn man das nicht mit sich selbst schafft.
 
 **!LOVE YOURSELF!**
 
