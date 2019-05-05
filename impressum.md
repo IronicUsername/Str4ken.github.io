@@ -8,7 +8,7 @@ Verantwortlich den Quatsch hier:
 
 Robin Schnider
 
-Master of Science TU München ( <- weil's pornöser kommt.)
+Master of Science TU München (und versteht die Welt trotzdem nicht)
 
 Kretzerstr. 4
 
