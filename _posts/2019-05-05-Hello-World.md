@@ -23,7 +23,7 @@ mehr zu schätzen und zu lieben. Denn ich bin der Meinung, dass es uns schwer f�
 **!LOVE YOURSELF!**
 
 Nachdem diese ganzen Gedanken nun in eine archivierbare Form gebracht worden sind,
-sie schon wesentlich einfacher nachzuvollziehen.
+sind sie schon wesentlich einfacher nachzuvollziehen.
 
 Eigentlich kann man auf diese Weise ein unendliches Selbstgespräch starten.
 
