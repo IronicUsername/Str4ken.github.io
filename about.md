@@ -12,7 +12,7 @@ Scheinbar gehört es heutzutage zum guten Ton seinen Gedankenbrei und sein Mitta
 
 Da ich kein Fan von Facebook und Instagram mach ich das lieber auf einem privaten Spielplatz.
 
-Viel Spass und Verwirrung auf meinem Blog 
+Viel Spass und Verwirrung auf meinem Blog!
 
 
 
