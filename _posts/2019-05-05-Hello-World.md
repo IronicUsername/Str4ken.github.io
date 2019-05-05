@@ -51,11 +51,15 @@ lässt er es lieber gleich bleiben.
 
 Was für Ziele sind das?
 Nun ja man könnte Sie folgendermaßen formulieren:
-No war, no hunger, no greed, no money.
+
+- No war
+- No hunger
+- No greed
+- No money
 
 Das Problem an diesen Zielen ist das gleiche Problem wie die 10 Gebote haben:
-Wenn du etwas auslöschen willst, darfst du es nicht erwähnen. Woran denkt man nämlich,
-wenn "no war" liest? Ja, an Krieg!
+Wenn du etwas auslöschen willst, darfst du es nicht erwähnen. Woran denken wir nämlich,
+wenn wir "No war" lesen? Ja, an Krieg!
 
 Also sollten Ziele bzw. Gebote nie eine Verneinung beinhalten. Meine Mutter erzählte
 mir schon lange von dieser Theorie und lange hielt ich sie für stumpf und überflüssig.
@@ -69,7 +73,7 @@ Flop waren.
 
 Unser Verstand ist eine komplexe Sache und gleichzeitig weckst sie meine höchste
 Neugier. Er ist uns er mächtigstes Werkzeug und Garant für Erfolg in der heutigen
-Welt, also gilt es ihn so zu formen und zu trainieren, dass er notwendige
+Welt, also gilt es ihn so zu formen und zu trainieren, so dass er notwendige
 Aufgaben lösen kann. Und so sind wir wieder am Anfang: Ich muss mehr schreiben!
 Man kann die Welt nicht anders denken, aber man kann sie mit Worten verändern.
 Also muss ich mehr schreiben und sprechen. Kommunikation ist der Schlüssel zum Erfolg,
