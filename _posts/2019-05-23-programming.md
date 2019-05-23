@@ -26,12 +26,12 @@ end_of_challenge = datetime.now() + timedelta(days=30)
 while True:
     if bin.check_consume() & toExclude:
         bin.set_attribute('addict')
-        bin.raiseMotivation()
+        bin.raise_motivation()
         end_of_challenge = datetime.now() + timedelta(days=30)
     if datetime.now() > end_of_challenge:
         bin.unsetAttribute('addict')
-        bin.beHappy()
-        bin.beProud()
+        bin.be_happy()
+        bin.be_proud()
         break
 
 ```
