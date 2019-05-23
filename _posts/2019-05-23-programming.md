@@ -2,8 +2,12 @@
 layout: post
 title: monkey programming
 ---
-Starting Pensieve.
-Connecting.
+Starting pensieve.
+
+Syncing...
+
+Online!
+
 Opening Editor:
 
 ```monkey
@@ -32,7 +36,7 @@ while True:
 
 ```
 
-Executing...
+Let's go!
 
 ```monkey
 root@brain:~$ sudo monkey challenge.mo
