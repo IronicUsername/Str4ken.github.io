@@ -10,8 +10,8 @@ Scheinbar gehört es heutzutage zum guten Ton seinen Gedankenbrei und sein Mitta
 
 Da ich kein Fan von Facebook, Instagram & Co bin, mach ich das lieber auf einem privaten Spielplatz.
 
-Viel Spass und Verwirrung auf meinem Blog!
+Viel Spass und Verwirrung!
 
-### Magsch mir was verzählen?
+### Magsch mir was verzählen? Immer gern!
 
 [blog@robinschnider.com](mailto:blog@robinschnider.com)

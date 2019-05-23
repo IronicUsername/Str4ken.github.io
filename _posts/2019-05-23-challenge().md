@@ -2,6 +2,9 @@
 layout: post
 title: monkey programming
 ---
+Starting Pensieve.
+Connecting.
+Opening Editor:
 
 ```monkey
 
@@ -18,16 +21,18 @@ end_of_challenge = datetime.now() + timedelta(days=30)
 
 while True:
     if bin.check_consume() & toExclude:
-        bin.set_attribute(“addict”)
+        bin.set_attribute('addict')
         bin.raiseMotivation()
         end_of_challenge = datetime.now() + timedelta(days=30)
     if datetime.now() > end_of_challenge:
-        bin.unsetAttribute(“addict”)
+        bin.unsetAttribute('addict')
         bin.beHappy()
         bin.beProud()
         break
 
 ```
+
+Executing...
 
 ```monkey
 root@brain:~$ sudo monkey challenge.mo
