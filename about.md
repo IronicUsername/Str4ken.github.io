@@ -15,3 +15,7 @@ Viel Spass und Verwirrung!
 ### Magsch mir was verzählen? Immer gern!
 
 [blog@robinschnider.com](mailto:blog@robinschnider.com)
+
+### Notification Mail falls es einen neuen Post gibt?
+
+Schick ne (leere) Mail an [blogupdate@robinschnider.com](mailto:blogupdate@robinschnider.com)
