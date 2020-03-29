@@ -13,7 +13,7 @@ Muss er leiden?
 
 Will er depressiv und hilflos sein?
 
-Wenn es schlimmer wird, was davor schon das schlimmste war...
+Wenn es schlimmer wird, was davor schon das Schlimmste war...
 
 Wie schlimm kann es werden?
 
