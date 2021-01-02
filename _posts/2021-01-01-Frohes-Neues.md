@@ -38,7 +38,7 @@ Doch meine Werte sind Nichtigkeit und meine Inspiration besteht in meinem Gefüh
 
 Im Nichts sehe ich den grössten Sinn. In verschwendeten Tagen fühle ich mich am wohlsten.
 
-Wenn ich mich nachst schlafen lege und weiss, dass ich heute Nichts erreicht habe, dann träume ich am schönsten.
+Wenn ich mich nachts schlafen lege und weiss, dass ich heute Nichts erreicht habe, dann träume ich am schönsten.
 
 Diese hektische Suche nach Erfüllung erfüllt mich vor allem mit Stress, Wut, Druck und Negativität.
 
@@ -104,9 +104,9 @@ Er entsteht, weil ich die Erwartungen nicht erfülle. Er entsteht aus Enttäusch
 
 Die Enttäuschung entsteht in mir und ob sie intrinsisch oder extern ensteht ist mir nicht klar.
 
-Seit ich denke kann werde ich als klug, aufmerksam und lösungsorientiert wahr genommen.
+Seit ich denken kann werde ich als klug, aufmerksam und lösungsorientiert wahr genommen.
 
-Mitmenschen denken ich sollte Probleme lösen. Doch keiner erwartet das ernsthaft. Es ist als Motivation gemeint.
+Mitmenschen meinen ich sollte Probleme lösen. Doch keiner erwartet das ernsthaft. Es ist als Motivation gemeint.
 
 Es ist mehr so: Mach mal! Ich trau dir das zu. Du bist doch ein schlauer Kopf.
 
@@ -126,7 +126,7 @@ Wie funktionieren wir hier in unserer Umwelt? Wie beeinflussen wir uns gegenseit
 
 Wie funktioniert Existenz, Wahrnehmung, Bewusstsein, Realität, Leben?
 
-Wie lösen wir unseren grössten Probleme?
+Wie lösen wir unsere grössten Probleme?
 
 Und umso mehr ich lerne, umso weniger verstehe ich.
 
