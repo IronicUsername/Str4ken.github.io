@@ -1,6 +1,6 @@
 ---
 layout: post
-title: bildschirmfrei
+title: Bildschirmfrei
 ---
 
 Eine Woche Bildschirmfrei.
