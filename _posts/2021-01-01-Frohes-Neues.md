@@ -2,31 +2,31 @@ Serien sagen uns viel über das Leben. Sie beeinflussen die Wünsche der Gesells
 
 Eigentlich dachte ich, dass Serien die Wünsche der Gesellschaft wiederspiegeln.
 
-Aber eigentlich formt unsere Medienlandschaft die Sehnsüchte der Individuen. 
+Aber eigentlich formt unsere Medienlandschaft die Sehnsüchte der Individuen.
 
 Die Einflussnahme der Medien ist massiv. Ich erlebe selbst, wie ich mich in einer Echokammer befinde.
 
 Keine Rechtsradikale, oder anders extremistische. Im Gegenteil, meine Echokammer ist eher normalisierend.
 
-Eine beruhigende, einschläfernde, betäubende, fast schon hypnosierende Echokammer.
+Eine beruhigende, einschläfernde, betäubende, fast schon hypnotisierende Echokammer.
 
-Wenn sich mein YouTube öffnet, werde ich in eine Welt des Gamings gesogen. 
+Wenn sich mein YouTube öffnet, werde ich in eine Welt des Gamings gesogen.
 
 In eine Welt, in der keine Sorgen existieren. Eine Welt in der es ausreicht zu spielen.
 
 Doch ich glaube, dass spielen nicht ausreicht. Und wiederspreche mir selbst im Nullsummenspiel.
 
-Ich bin ein priveligierter weisser Mann. Das einfachste Leben, dass es in unserer Gesellschaft zu führen gibt.
+Ich bin ein privilegierter weisser Mann. Das einfachste Leben, dass es in unserer Gesellschaft zu führen gibt.
 
-Und zusätzlich suche ich noch ein simples Leben. 
+Und zusätzlich suche ich noch ein simples Leben.
 
 Ich versuche mir einzureden, dass ich nichts erreichen muss, um zufrieden zu sein.
 
 Ich nicht kämpfen muss, um glücklich zu sein.
 
-Doch es ist schwierig. Einen positven Nihilsmus zu leben lässt einen oft anecken.
+Doch es ist schwierig. Einen positiven Nihilismus zu leben lässt einen oft anecken.
 
-Und das wiederspricht der Einfachheit, die ich versuche zu finden.
+Und das widerspricht der Einfachheit, die ich versuche zu finden.
 
 Man wird stets hin und her gerissen. Mach das Beste aus deinem Leben, aber ich will nichts machen.
 
@@ -50,7 +50,7 @@ Wie oft ich mich selbst belüge.
 
 Wie ich mich hasse.
 
-Hass gegen mein Bedürfniss einer Gesellschaft zu entsprechen, die ich nicht verstehen kann.
+Hass gegen mein Bedürfnisse einer Gesellschaft zu entsprechen, die ich nicht verstehen kann.
 
 Die ich auch nicht mehr verstehen will.
 
@@ -66,7 +66,7 @@ Fick sozial zu sein.
 
 Fick Wissenstransfer.
 
-Fick den Planeten.
+[Fick den Planeten.](https://www.youtube.com/watch?v=TSJlZvQ3XgE)
 
 Fick unsere Vorfahren.
 
@@ -212,7 +212,7 @@ Was bleibt ist Wahrnehmung.
 
 Die Verarbeitung von Informationen als biochemischer Algorithmus.
 
-Mensch sein ist das Beste und Einzige was uns übrig bleibt. 
+Mensch sein ist das Beste und Einzige was uns übrig bleibt.
 
 Unsere Definitionsmenge ist unendlich.
 
@@ -220,7 +220,7 @@ Als Ingenieur des Lebens lerne ich zu optimieren, also optimiere ich die Werteme
 
 Wenn mein wertvollster Wert nicht mehr Wahrheit und nicht Verstehen sind, sondern Fühlen an sich, weiss ich was zu tun ist.
 
-Fühlen definiert sich in einer Skala zwischen Hass und Liebe. 
+Fühlen definiert sich in einer Skala zwischen Hass und Liebe.
 
 Ich hasse mich und alles um mich herum.
 
@@ -240,27 +240,33 @@ Lieber Liebe.
 
 Frohes Neues twenty-twenty-won!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
+               *    *
+   *         '       *       .  *   '     .           * *
+                                                               '
+       *                *'          *          *        '
+   .           *               |               /
+               '.         |    |      '       |   '     *
+                 \*        \   \             /
+       '          \     '* |    |  *        |*                *  *
+            *      `.       \   |     *     /    *      '
+  .                  \      |   \          /               *
+     *'  *     '      \      \   '.       |
+        -._            `                  /         *
+  ' '      ``._   *                           '          .      '
+   *           *\*          * .   .      *
+*  '        *    `-._                       .         _..:='        *
+             .  '      *       *    *   .       _.:--'
+          *           .     .     *         .-'         *
+   .               '             . '   *           *         .
+  *       ___.-=--..-._     *                '               '
+                                  *       *
+                *        _.'  .'       `.        '  *             *
+     *              *_.-'   .'            `.               *
+                   .'                       `._             *  '
+   '       '                        .       .  `.     .
+       .                      *                  `
+               *        '             '                          .
+     .                          *        .           *  *
+             *        .                                    '
+```

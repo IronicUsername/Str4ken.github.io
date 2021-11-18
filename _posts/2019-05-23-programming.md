@@ -2,13 +2,22 @@
 layout: post
 title: monkey programming
 ---
-Starting pensieve.
 
-Syncing...
+`>b̶̢͇̭̹͊̅̀̈̒̑̏̔ǫ̵̣̼̬͗o̷̯͕͌͊̑̊̈́t̴̗̿̈i̷̗̘̼͖͑̽ń̸͇̭̐̏͒̊̆ͅg̴͈͙̮̾͛̌͆.̷̩͇̺̰͈́̈̈́̈́͜͝͝.̶̨̯̈́̈͝͝.̸̺̞̫̑̋̈́̂͂`
 
-Online!
+`>i̴n̵i̶t̷i̶a̵l̸i̶z̶i̶n̶g̸ ...`
 
-Opening Editor:
+`>accessing shell ...`
+
+`>connected as 'root@brain'.`
+
+`root@brain: starting pensieve...`
+
+`root@brain:~$>syncing...`
+
+`root@brain:~$>online!`
+
+`root@brain:~$>opening editor:`
 
 ```monkey
 
